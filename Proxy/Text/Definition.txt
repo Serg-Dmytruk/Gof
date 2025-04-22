@@ -1,0 +1,25 @@
+﻿Provide a surrogate or placeholder for another object to control access to it.
+Забезпечте сурогат або заповнювач для іншого об'єкта, щоб контролювати доступ до нього.
+
+//Remote
+"Provides a local representation for a remote object
+"Забезпечує локальне представлення для віддаленого об'єкта
+
+//Virtual
+"Creates a placeholder for expensive objects
+Lazy Loading
+
+"Створює заповнювач для ресурсомістких об'єктів
+Ліниве завантаження"
+
+//Protection
+Creates a placeholder for expensive objects
+Створює заповнювач для ресурсомістких об'єктів
+
+//Smart Reference
+Acts as an intelligent wrapper around the real object
+Діє як розумна обгортка навколо реального об'єкта
+
+//Caching
+Stores the result of expensive operations
+Зберігає результат дорогих операцій

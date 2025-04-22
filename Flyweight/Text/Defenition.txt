@@ -1,0 +1,9 @@
+﻿Use sharing to support large numbers of fine-grained objects efficiently.
+
+Використовуйте спільний доступ для ефективної підтримки великої кількості малих об'єктів.
+
+Extrinsic State vs Intrinsic State (Зовішній/Внутрішній - стан)
+
+Intrinsic State - The information that is shared across all the instances
+Extrinsic State - The information that is unique for the specific object
+ 

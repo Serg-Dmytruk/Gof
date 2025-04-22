@@ -1,0 +1,2 @@
+﻿"Convert the interface of a class into another interface that clients expect. The adapter pattern lets classes work together that couldn't otherwise because of incompatible interfaces"
+"Перетворює інтерфейс класу на інший інтерфейс, якого очікують клієнти. Патерн адаптер дозволяє класам працювати разом, що інакше було б неможливим через несумісність інтерфейсів"

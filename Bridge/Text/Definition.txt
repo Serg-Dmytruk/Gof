@@ -1,0 +1,2 @@
+﻿Decouple an abstraction from its implementation so that the two can vary independently
+Відокремлюйте абстракцію від її реалізації так, щоб вони могли змінюватись незалежно одна від одної

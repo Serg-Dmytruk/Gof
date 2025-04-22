@@ -1,0 +1,9 @@
+﻿Define a family of algorithms, encapsulate each one, and make them interchangeable.
+ Strategy lets the algorithm vary independently from clients that use it.
+
+Put interchangeable logic behind an interface
+
+Визначте сімейство алгоритмів, інкапсулюйте кожен із них та зробіть їх взаємозамінними.
+ Патерн Стратегія дозволяє алгоритму змінюватися незалежно від клієнтів, які його використовують.
+ 
+Розміщуйте взаємозамінну логіку за інтерфейсом

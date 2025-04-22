@@ -1,0 +1,3 @@
+﻿"Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates."
+
+"Представляє операцію, яка виконується над елементами об'єктної структури. Відвідувач дозволяє визначити нову операцію без зміни класів елементів, над якими вона працює."
