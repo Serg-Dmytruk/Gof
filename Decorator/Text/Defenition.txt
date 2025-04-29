@@ -1,0 +1,2 @@
+﻿Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+Динамічно приєднувати додаткові обов'язки до об'єкта. Декоратори надають гнучку альтернативу підкласам для розширення функціональності.
