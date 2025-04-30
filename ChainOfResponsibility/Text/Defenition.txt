@@ -1,0 +1,5 @@
+﻿Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request.
+Chain the receiving objects and pass the request along the chain until an object handles it.
+
+Уникайте прив'язки відправника запиту до його отримувача, даючи більш ніж одному об'єкту можливість обробити запит.
+З'єднайте об'єкти-отримувачі в ланцюжок і передавайте запит вздовж цього ланцюжка, доки якийсь об'єкт не обробить його.
