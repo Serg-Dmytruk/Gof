@@ -1,0 +1,6 @@
+﻿Define an object that encapsulates how a set of objects interact.
+Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
+
+Визначте об'єкт, який інкапсулює спосіб взаємодії набору об'єктів.
+Посередник сприяє слабкому зв'язуванню, не дозволяючи об'єктам безпосередньо посилатися один на одного, і дозволяє змінювати їхню взаємодію незалежно.
+
